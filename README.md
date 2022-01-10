@@ -1,3 +1,2 @@
-"# Cristian-Muntean-Chess-Game" 
-"# Chess-game" 
-"# Chess-game" 
+Created in Java.
+Used Swing for the GUI
